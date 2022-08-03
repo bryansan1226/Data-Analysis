@@ -1,0 +1,30 @@
+Pass rate per instructors:
+Instructor I12 W rate: 26.35
+Instructor I18 W rate: 20.58
+Instructor I23 W rate: 14.91
+Instructor I01 W rate: 26.79
+Instructor I28 W rate: 35.3
+Instructor I21 W rate: 26.91
+Instructor I16 W rate: 25.32
+Instructor I20 W rate: 20.42
+Instructor I08 W rate: 31.16
+Instructor I02 W rate: 17.33
+Instructor I26 W rate: 23.33
+Instructor I04 W rate: 28.41
+Instructor I22 W rate: 17.05
+Instructor I14 W rate: 8.225
+Instructor I25 W rate: 20
+Instructor I10 W rate: 5.755
+Instructor I24 W rate: 8.571
+Instructor I11 W rate: 19.35
+Instructor I06 W rate: 11.59
+Instructor I27 W rate: 7.865
+Instructor I07 W rate: 6.101
+Instructor I15 W rate: 11.11
+Instructor I19 W rate: 5.988
+Instructor I17 W rate: 7.463
+Instructor I03 W rate: 2.5
+Pass rate per courses:
+Course 1115 W rate: 26.06
+Course 3115 W rate: 13.75
+Course 3130 W rate: 9.729

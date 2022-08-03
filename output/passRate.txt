@@ -1,0 +1,30 @@
+Pass rate per instructors:
+Instructor I12 pass rate: 61.49
+Instructor I18 pass rate: 67.03
+Instructor I23 pass rate: 78.88
+Instructor I01 pass rate: 61.89
+Instructor I28 pass rate: 40.35
+Instructor I21 pass rate: 54.67
+Instructor I16 pass rate: 50.64
+Instructor I20 pass rate: 67.08
+Instructor I08 pass rate: 47.88
+Instructor I02 pass rate: 55.33
+Instructor I26 pass rate: 66.67
+Instructor I04 pass rate: 42.05
+Instructor I22 pass rate: 77.27
+Instructor I14 pass rate: 83.55
+Instructor I25 pass rate: 70
+Instructor I10 pass rate: 87.77
+Instructor I24 pass rate: 82.86
+Instructor I11 pass rate: 61.29
+Instructor I06 pass rate: 82.61
+Instructor I27 pass rate: 83.71
+Instructor I07 pass rate: 92.84
+Instructor I15 pass rate: 81.29
+Instructor I19 pass rate: 85.93
+Instructor I17 pass rate: 71.64
+Instructor I03 pass rate: 90
+Pass rate per courses:
+Course 1115 pass rate: 55.25
+Course 3115 pass rate: 77.97
+Course 3130 pass rate: 82.45
